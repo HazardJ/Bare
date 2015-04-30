@@ -3,37 +3,27 @@ Ti=STUDY INFORMATION AND CONSENT to RESEARCH
 
 0.1.Ti=TITLE
 
-0.1.sec=Share the Journey Mind, Body and Wellness after breast cancer (breast cancer Survivor Study)
+0.1.sec={Title.Full}
 
 0.2.Ti=PROTOCOL
 
-0.2.1.sec=NO.:201411020
+0.2.1.sec=Protocol Number: {Protocol#}
 
-0.2.2.sec=WIRB® Protocol #20142174
+0.2.2.sec=Independent Contact Protocol Number: {IC-Protocol#}
 
 0.2.=[Bit/Ssec_02]
 
 0.3.Ti=SPONSOR
 
-0.3.sec={Sponsor.Name}
+0.3.sec={Sponsor.Name.Full}
 
 0.4.Ti=INVESTIGATOR
 
-0.4.=Stub
-
-[Study/Investigator]
-
-Stephen H. Friend, MD, PhD
-1100 Fairview Ave. North
-Seattle, Washington 98109-4433
-United States
+0.4.sec={Investigator.N,1,2,3}
 
 0.5.Ti=STUDY-RELATED PHONE NUMBER(S)
 
-0.5.sec=:
-Stephen H. Friend, MD, PhD (Principal Investigator)
-Andrew Trister, MD, PhD (Medical Monitor)
-+1-206-667-2103
+0.5.sec={Study-Related-Phone-Numbers,A/Z}
 
 Note=no "ti" in the intro.
 
@@ -43,7 +33,7 @@ Note=no "ti" in the intro.
 
 1.Ti=SUMMARY
 
-1.1.sec=You are invited to participate in a research study to understand variations in symptoms during recovery from breast cancer treatment.  This study is designed for women between 18 and 80 years old with a history of breast cancer treatment and women without any history of cancer. Your participation in this study is entirely voluntary.
+1.1.sec=You are invited to participate in a research study to understand {Topic.cl}.  This study is designed for {Population.cl}. Your participation in this study is entirely voluntary.
 
 1.2.sec=To be in a research study you must give your informed consent.   The purpose of this form is to help you decide if you want to participate in this study.  Please read the information carefully.  You should not join the research study until all of your questions are answered.
 
@@ -53,25 +43,7 @@ Note=no "ti" in the intro.
 
 1.=[Bit/Ssec_04]
 
-2.Ti=PURPOSE OF THE STUDY
-
-2.1.Sec=Women recovering from breast cancer treatment can have very different and more or less severe symptoms day to day.  These symptoms affect quality of life and make managing recovery difficult.  We would like to understand the causes of these symptom variations.
-
-2.2.Sec=New technologies allow people to record and track their health and symptoms in real time.
-
-2.3.Sec=This study will monitor individual’s health and symptoms using questionnaires and sensors via a mobile phone application.  The data from many participants will be analyzed to better understand the differences in symptoms reported. We will also assess whether mobile devices and sensors can help better measure and manage these symptoms.  You will have a unique account that you can use to review your own data and see how it fluctuates over time.  Ultimately our goal is to learn with you how to improve quality of life after breast cancer treatment.
-
-2.4.Sec=Your data, without your name, will be added to the data of other study participants and analyzed by the study team.  Also, if you choose to, your study data (without your contact information) can be made available to other qualified researchers for this and future research.  You will have a unique account that you can use to review your own data. 
-
-2.5.Ti=How long will I be in the research study?
-
-2.5.sec=We anticipate this study will last about six months, however the app can remain on your phone for multiple years, and you can keep using it to track your symptoms and review your data.
-
-2.6.Ti=How many people will take part in this study?
-
-2.6.sec=We anticipate enrolling 20,000 subjects in the study.
-
-2.=[Bit/Sec_06]
+2.=[Study/Sec_Purpose.md]
 
 3.Ti=PROCEDURES
 
@@ -85,13 +57,28 @@ Note=no "ti" in the intro.
 
 3.1.2.Ti=Health Surveys
 
-3.1.2.sec=We will periodically ask you to answer questions about yourself, your medical history, and your current health. You may skip any questions that you do not wish to answer. We will ask you to rate your fatigue, thinking, sleep, mood and exercise performance on a scale of 1 to 5 daily. We will also ask you to answer brief weekly and monthly surveys about your symptoms to track any changes.  
+3.1.2.1.sec=We will periodically ask you to answer questions about yourself, your medical history, and your current health.
+
+3.1.2.2.sec=You may skip any questions that you do not wish to answer.
+
+3.1.2.3.sec={SurveyDetails.sec}
+
+3.1.2.xlist={3.1.2.sens}
+
+3.1.2.=[Bit/Sec_03]
 
 3.1.3.Ti=Activities
 
-3.1.3.1.sec=Occasionally we may ask you to perform specific activities while using your mobile phone and record sensor data directly from your phone.  For example, you may be asked to type a short journal entry, which will then be shared and analyzed for typing speed and accuracy as well as word usage.  Additionally, you may be asked to provide data from third-party fitness devices (like the Nike FuelBand or Jawbone Up) with your permission.
+3.1.3.1.sec=Occasionally we may ask you to perform specific activities while using your mobile phone and record sensor data directly from your phone.
+3.1.3.2.sec=For example, you may be asked to type a short journal entry, which will then be shared and analyzed for typing speed and accuracy as well as word usage.
 
-3.1.3.2.sec=We will send notices on your phone asking you to complete these activities and surveys.  You may choose to act at your convenience, (either then or later) and you may choose to participate in all or only in some parts of the study. These surveys and activities should take you about 20 minutes each week. You can adjust the app settings to turn on and off sending data at any time.  Occasionally we may re-contact you to ask for your feedback about using the app and about the kind of questions included in the study.
+3.1.3.3.sec={ActivityDetails.sec}
+
+3.1.3.xlist={3.1.3.sens}
+
+3.1.3.=[Bit/Sec_03]
+
+3.1.3.2.sec=We will send notices on your phone asking you to complete these activities and surveys.  You may choose to act at your convenience, (either then or later) and you may choose to participate in all or only in some parts of the study. These surveys and activities should take you about {SurveyDuration.cl}. You can adjust the app settings to turn on and off sending data at any time.  Occasionally we may re-contact you to ask for your feedback about using the app and about the kind of questions included in the study.
 
 3.1.3.=[Bit/Ssec_02]
 
@@ -101,7 +88,7 @@ Note=no "ti" in the intro.
 
 3.2.1.Ti=Data processing
 
-3.2.1.sec=We will electronically process your data and separate your account information (name, email, contact information, etc.) from your study data (your responses to surveys and the measurements from the phone itself when you perform activities). We will combine your coded study data (without your name) with those of other study participants.  The combined data will be transferred electronically to Synapse (synapse.org), {Sponsor.Name}’ computerized research platform for storage and analysis.
+3.2.1.sec=We will electronically process your data and separate your account information (name, email, contact information, etc.) from your study data (your responses to surveys and the measurements from the phone itself when you perform activities). We will combine your coded study data (without your name) with those of other study participants.  The combined data will be transferred electronically to {StoragePlatform.Name.Full}, {Sponsor.Name.Full}’ computerized research platform for storage and analysis.
 
 3.2.2.Ti=Use in research
 
@@ -165,11 +152,11 @@ Note=no "ti" in the intro.
 
 9.3.0.sec=The parties listed in the preceding paragraph may disclose your health information as required by law to:
 
-9.3.1.sec=The US National Institute of health, National Cancer Institute, Office for Human Research Protection, The Food and Drug Administration and other agencies as required,
+9.3.1.sec={Disclose.MandatoryAgencies.sec}
 
 9.3.2.sec=Governmental agencies in other countries,
 
-9.3.3.sec=Western Institutional Review Board® (WIRB®) or other Institutional Review Board who watch over the safety, effectiveness and conduct of the research,
+9.3.3.sec={IC.Name.Full} or other Institutional Review Board who watch over the safety, effectiveness and conduct of the research,
 
 9.3.4.sec=Others, if the law requires
 
@@ -236,17 +223,17 @@ By agreeing to participate you do not waive any of your legal rights.
 
 13.1.sec=This study gives you the option to share your coded study data more broadly, with other researchers worldwide for use in this research and beyond to benefit future research. 
 
-13.2.sec=If you choose to share your data broadly, your coded data (without your contact information) will be added to a shared study dataset on Synapse. This shared study dataset will be made available to qualified researchers who are registered users of Synapse and who have agreed to using the data in an ethical manner, to do no harm and not attempt to re-identify or re-contact you unless you have chosen to allow them to do so.  No name or contact information will be included in this shared study dataset. Researchers will have access to the shared study data but will be unable to easily map any particular data to the identities of the participants.  The Principal Investigator and Sponsor will have no oversight on the future use of the shared study data by other researchers  
+13.2.sec=If you choose to share your data broadly, your coded data (without your contact information) will be added to a shared study dataset on Synapse. This shared study dataset will be made available to qualified researchers who are registered users of {StoragePlatform.Name.Short} and who have agreed to using the data in an ethical manner, to do no harm and not attempt to re-identify or re-contact you unless you have chosen to allow them to do so.  No name or contact information will be included in this shared study dataset. Researchers will have access to the shared study data but will be unable to easily map any particular data to the identities of the participants.  The Principal Investigator and Sponsor will have no oversight on the future use of the shared study data by other researchers  
 
 13.=[Bit/Ssec_02]
 
 14.Ti=SOURCE OF FUNDING FOR THE STUDY 
 
-14.1.sec={Sponsor.Name} designed this study in collaboration with advisors in {Study.subject}.
+14.1.sec={Sponsor.Name.Short} designed this study in collaboration with advisors in {Advisor.Field.cl}.
 
-14.2.sec=The study is sponsored by {Sponsor.Name} with some funding from the Robert Wood Johnson Foundation (http://www.rwjf.org) and technical support from YMedia labs (http://www.ymedialabs.com/).
+14.2.sec={FundingSources.sec}
 
-14.3.sec={Sponsor.Name} is a US-based non-profit research organization dedicated to the advancement of science through open research initiatives. 
+14.3.sec={Sponsor.Purpose.sec}
 
 14.xlist={14.sens}
 
@@ -256,7 +243,7 @@ By agreeing to participate you do not waive any of your legal rights.
 
 15.1.Sec=Please take all the time you need to review this study information and think about whether you would like to participate in this study. Do not hesitate to talk with family, friends and/or the study staff if you have any questions before you decide.
 
-15.2.Sec=If after reading this document you would like more information, wish to provide us feedback or if you have new questions, concerns or complaints at any time before, during, or after the study, you can contact Dr. Stephen Friend, the study principal investigator or Dr. Andrew Trister, the medical monitor by email at {Info.Email} or call {Info.Telephone}.
+15.2.Sec=If after reading this document you would like more information, wish to provide us feedback or if you have new questions, concerns or complaints at any time before, during, or after the study, you can contact {QuestionsContact.cl}
 
 15.3.Ti=Independent Contact
 
@@ -266,7 +253,7 @@ By agreeing to participate you do not waive any of your legal rights.
 
 15.3.2.sec={IC.The} is a group of people who independently review research.
 
-15.3.3.sec={IC.The} will not be able to answer some study-specific questions, such as questions about appointment times. However, you may contact {IC.Name} if the research staff cannot be reached or if you wish to talk to someone other than the research staff.
+15.3.3.sec={IC.The} will not be able to answer some study-specific questions, such as questions about appointment times. However, you may contact {IC.Name.Full} if the research staff cannot be reached or if you wish to talk to someone other than the research staff.
 
 15.3.=[Bit/Ssec_03]
 
