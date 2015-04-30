@@ -14,8 +14,9 @@ Monitor.=[ID/Alison_Trudeau.md]
 
 Investigator.=[ID/William_Walder.md]
 
-Info.
-Advisor.Field.cl=breast cancer research
+Purpose.=[Study/Sec_Purpose.md]
+
+Funding.=[Study/Sec_Funding.md]
 
 SurveyDetails.sec={m-}We will ask you to rate your fatigue, thinking, sleep, mood and exercise performance on a scale of 1 to 5 daily.  We will also ask you to answer brief weekly and monthly surveys about your symptoms to track any changes.{-m}
 
@@ -34,10 +35,6 @@ Population.cl={m-}women between 18 and 80 years old with a history of breast can
 StoragePlatform.Name.Short={m-}DocDataDock{-m}
 
 StoragePlatform.Name.Full={m-}DocDataDock (docdatadoc.org){-m}
-
-FundingSources.sec={m-}The study is sponsored by {Sponsor.Name.Short} with some funding from the Buddy Guy Foundation (http://www.rwjf.org) and technical support from WhatMedia labs (http://www.whatmedialabs.com/).{-m}
-
-Sponsor.Purpose.sec={m-}{Sponsor.Name.Full} is a US-based non-profit research organization dedicated to the advancement of science through open research initiatives.{-m}
 
 QuestionsContact.cl={m-}{Investigator.Name.Full}, the study principal investigator or {Monitor.Name.Full}, the medical monitor by email at {Monitor.Email} or call {Monitor.Telephone}.{-m}
 

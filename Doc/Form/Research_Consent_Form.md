@@ -43,7 +43,7 @@ Note=no "ti" in the intro.
 
 1.=[Bit/Ssec_04]
 
-2.=[Study/Sec_Purpose.md]
+2.Sec={Purpose.Sec}
 
 3.Ti=PROCEDURES
 
@@ -174,7 +174,7 @@ Note=no "ti" in the intro.
 
 10.1.sec=We are committed to protect your information and keep your identity as confidential as possible, however total confidentiality cannot be guaranteed. 
 
-10.2.sec=Except as required by law, you will not be identified by name or by any other direct personal identifier. The data collected through the app will be encrypted on the smartphone, transferred electronically and stored securely on the Synapse data repository and analysis platform using Amazon-Web Cloud Services. 
+10.2.sec=Except as required by law, you will not be identified by name or by any other direct personal identifier. The data collected through the app will be encrypted on the smartphone, transferred electronically and stored securely on the {StoragePlatform.Name.Short} data repository and analysis platform using Amazon-Web Cloud Services. 
 
 10.3.sec=Your contact information, including your name and e-mail address will be stored separately from the study data.  We will use a random code number instead of your name on all your study data..  This code cannot be used to directly identify you.   Information about the code will be kept in a secure system.  
 
@@ -223,53 +223,19 @@ By agreeing to participate you do not waive any of your legal rights.
 
 13.1.sec=This study gives you the option to share your coded study data more broadly, with other researchers worldwide for use in this research and beyond to benefit future research. 
 
-13.2.sec=If you choose to share your data broadly, your coded data (without your contact information) will be added to a shared study dataset on Synapse. This shared study dataset will be made available to qualified researchers who are registered users of {StoragePlatform.Name.Short} and who have agreed to using the data in an ethical manner, to do no harm and not attempt to re-identify or re-contact you unless you have chosen to allow them to do so.  No name or contact information will be included in this shared study dataset. Researchers will have access to the shared study data but will be unable to easily map any particular data to the identities of the participants.  The Principal Investigator and Sponsor will have no oversight on the future use of the shared study data by other researchers  
+13.2.sec=If you choose to share your data broadly, your coded data (without your contact information) will be added to a shared study dataset on {StoragePlatform.Name.Short}. This shared study dataset will be made available to qualified researchers who are registered users of {StoragePlatform.Name.Short} and who have agreed to using the data in an ethical manner, to do no harm and not attempt to re-identify or re-contact you unless you have chosen to allow them to do so.  No name or contact information will be included in this shared study dataset. Researchers will have access to the shared study data but will be unable to easily map any particular data to the identities of the participants.  The Principal Investigator and Sponsor will have no oversight on the future use of the shared study data by other researchers.
 
 13.=[Bit/Ssec_02]
 
-14.Ti=SOURCE OF FUNDING FOR THE STUDY 
-
-14.1.sec={Sponsor.Name.Short} designed this study in collaboration with advisors in {Advisor.Field.cl}.
-
-14.2.sec={FundingSources.sec}
-
-14.3.sec={Sponsor.Purpose.sec}
-
-14.xlist={14.sens}
-
-14.=[Bit/Sec_03]
+14.Sec={Funding.Sec}
 
 15.Ti=QUESTIONS and CONTACT INFORMATION 
 
-15.1.Sec=Please take all the time you need to review this study information and think about whether you would like to participate in this study. Do not hesitate to talk with family, friends and/or the study staff if you have any questions before you decide.
-
-15.2.Sec=If after reading this document you would like more information, wish to provide us feedback or if you have new questions, concerns or complaints at any time before, during, or after the study, you can contact {QuestionsContact.cl}
-
-15.3.Ti=Independent Contact
-
-15.3.0.sec=This study was reviewed and approved by {IC.the}. If you are not satisfied with how this study is being conducted, if you have questions about your rights as a research participant or if you have questions, concerns, input, or complaints about the research, please contact {IC.the}  to speak to someone independent of the research team:
-
-15.3.1.sec={IC.N/A/T/E}
-
-15.3.2.sec={IC.The} is a group of people who independently review research.
-
-15.3.3.sec={IC.The} will not be able to answer some study-specific questions, such as questions about appointment times. However, you may contact {IC.Name.Full} if the research staff cannot be reached or if you wish to talk to someone other than the research staff.
-
-15.3.=[Bit/Ssec_03]
-
-15.=[Bit/Sec_03]
+15.=[Form/Sec_QuestionsAndContacts.md]
 
 90.1.Sec=Thank you for taking the time to read and consider this information.
 
-90.2.Ti=CONSENT
-
-90.2.1.sec=I have read about this research study (or it has been read to me).  All my questions about the study and my part in it have been answered.  I freely consent to be in this research study and I authorize the use and disclosure of my unnamed, coded data in electronic database(s) for use in research as indicated in the data sharing setting through the app preferences.
-
-90.2.2.sec=By signing this consent form I have not given up any of my legal rights.
-
-90.2.3.sec=YOUR SIGNATURE INDICATES THAT YOU HAVE READ AND UNDERSTAND THE ABOVE INFORMATION AND THAT YOU HAVE DECIDED TO PARTICIPATE BASED ON THE INFORMATION PROVIDED.  A COPY OF THIS FORM WILL BE EMAILED TO YOU.
-
-90.2.=[Bit/Ssec_03]
+90.2.=[Form/Consent_Acknowledgment.md]
 
 90.=[Bit/Sec_02]
 
