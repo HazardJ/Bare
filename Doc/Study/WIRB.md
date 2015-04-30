@@ -9,10 +9,9 @@ Telephone=1-800-562-4789 or 360-252-2500
 
 Email=Help@wirb.com
 
-IC.N/A/T/E={Name}<br>{Addr.1}<br>{Addr.2}<br>{Telephone}<br>{Email}
+N/A/T/E={Name}<br>{Addr.1}<br>{Addr.2}<br>{Telephone}<br>{Email}
 
-IC.The=The {Name}
+The=The {Name}
 
-IC.the=the {Name}
+the=the {Name}
 
-=[Form/Research_Consent_Form.md]

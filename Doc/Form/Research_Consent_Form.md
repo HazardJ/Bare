@@ -35,6 +35,10 @@ Stephen H. Friend, MD, PhD (Principal Investigator)
 Andrew Trister, MD, PhD (Medical Monitor)
 +1-206-667-2103
 
+Note=no "ti" in the intro.
+
+0.Sec={0.sec}
+
 0.=[Bit/Sec_05]
 
 1.Ti=SUMMARY
