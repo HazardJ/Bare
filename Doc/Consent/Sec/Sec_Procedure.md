@@ -1,4 +1,4 @@
-Ti=Procedures
+Ti=PROCEDURES
 
 1.Ti=What will you be asked to do?
 
@@ -16,19 +16,18 @@ Ti=Procedures
 
 1.2.3.sec={SurveyDetails.sec}
 
-1.2.xlist={3.1.2.sens}
+1.2.xlist={1.2.sens}
 
 1.2.=[Bit/Sec_03]
 
 1.3.Ti=Activities
 
 1.3.1.sec=Occasionally we may ask you to perform specific activities while using your mobile phone and record sensor data directly from your phone.
-
 1.3.2.sec=For example, you may be asked to type a short journal entry, which will then be shared and analyzed for typing speed and accuracy as well as word usage.
 
 1.3.3.sec={ActivityDetails.sec}
 
-1.3.xlist={3.1.3.sens}
+1.3.xlist={1.3.sens}
 
 1.3.=[Bit/Sec_03]
 
