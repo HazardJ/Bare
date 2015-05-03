@@ -1,8 +1,8 @@
 Ti=STUDY INFORMATION AND CONSENT to RESEARCH
 
-0.=[Consent/Sec/Sec_Heading.md]
+sec={Intro.Sec}<ol><li>{Summary.Sec}<li>{Purpose.Sec}<li>{Procedure.Sec}<li>{Risk.Sec}<li>{Benefit.Sec}<li>{Payment.Sec}<li>{Cost.Sec}<li>{Alternatives.Sec}<li>{Authorization.Sec}<li>{Confidentiality.Sec}<li>{CostOfInjury.Sec}<li>{Participation.Sec}<li>{Use.Sec}<li>{Funding.Sec}<li>{QuestionsAndContacts.Sec}</ol>
 
-Secs={Summary.Sec}<li>{Purpose.Sec}<li>{Procedure.Sec}<li>{Risk.Sec}<li>{Benefit.Sec}<li>{Payment.Sec}<li>{Cost.Sec}<li>{Alternatives.Sec}<li>{Authorization.Sec}<li>{Confidentiality.Sec}<li>{CostOfInjury.Sec}<li>{Participation.Sec}<li>{Use.Sec}<li>{Funding.Sec}<li>{QuestionsAndContacts.Sec}
+Intro.=[Consent/Sec/Sec_Introduction.md]
 
 Summary.=[Consent/Sec/Sec_Summary.md]
 

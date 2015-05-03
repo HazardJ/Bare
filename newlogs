@@ -8636,3 +8636,463 @@ Array
 
 Consent/Form/Research_Consent_Form.md
 
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 1785
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ORIGIN] => http://hazardj.local
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=Consent/Form/Research_Consent_Form.md
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 192.168.1.11
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.11
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 59536
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /commonaccord/index.php
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430686730.814
+    [REQUEST_TIME] => 1430686730
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+::: Array
+(
+    [newcontent] => Ti=STUDY INFORMATION AND CONSENT to RESEARCH
+
+0.=[Consent/Sec/Sec_Heading.md]
+
+Sec={0.Sec}<ol><li>{Summary.Sec}<li>{Purpose.Sec}<li>{Procedure.Sec}<li>{Risk.Sec}<li>{Benefit.Sec}<li>{Payment.Sec}<li>{Cost.Sec}<li>{Alternatives.Sec}<li>{Authorization.Sec}<li>{Confidentiality.Sec}<li>{CostOfInjury.Sec}<li>{Participation.Sec}<li>{Use.Sec}<li>{Funding.Sec}<li>{QuestionsAndContacts.Sec}</ol>
+
+Summary.=[Consent/Sec/Sec_Summary.md]
+
+Purpose.Sec=
+
+Procedure.=[Consent/Sec/Sec_Procedure.md]
+
+Risk.=[Consent/Sec/Sec_Risk.md]
+
+Benefit.=[Consent/Sec/Sec_Benefit.md]
+
+Payment.=[Consent/Sec/Sec_Payment.md]
+
+Cost.=[Consent/Sec/Sec_Cost.md]
+
+Alternatives.=[Consent/Sec/Sec_Alternatives.md]
+
+Authorization.=[Consent/Sec/Sec_Authorization.md]
+
+Confidentiality.=[Consent/Sec/Sec_Confidentiality.md]
+
+CostOfInjury.=[Consent/Sec/Sec_CostOfInjury.md]
+
+Participation.=[Consent/Sec/Sec_Participation.md]
+
+Use.=[Consent/Sec/Sec_Use.md]
+
+Funding.Sec=
+
+QuestionsAndContacts.=[Consent/Sec/Sec_QuestionsAndContacts.md]
+
+90.Sec=Thank you for taking the time to read and consider this information.<hr><hr>{Consent.Doc}
+
+Consent.=[Consent/Sec/Consent_Acknowledgment.md]
+
+=[Bit/Sec]
+
+DocBody={Doc}  
+    [submit] => Save
+    [file] => Consent/Form/Research_Consent_Form.md
+    [action] => source
+)
+
+Consent/Form/Research_Consent_Form.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 1785
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ORIGIN] => http://hazardj.local
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 192.168.1.11
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.11
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 59548
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /commonaccord/index.php
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430686751.624
+    [REQUEST_TIME] => 1430686751
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+::: Array
+(
+    [newcontent] => Ti=STUDY INFORMATION AND CONSENT to RESEARCH
+
+0.=[Consent/Sec/Sec_Heading.md]
+
+sec={0.Sec}<ol><li>{Summary.Sec}<li>{Purpose.Sec}<li>{Procedure.Sec}<li>{Risk.Sec}<li>{Benefit.Sec}<li>{Payment.Sec}<li>{Cost.Sec}<li>{Alternatives.Sec}<li>{Authorization.Sec}<li>{Confidentiality.Sec}<li>{CostOfInjury.Sec}<li>{Participation.Sec}<li>{Use.Sec}<li>{Funding.Sec}<li>{QuestionsAndContacts.Sec}</ol>
+
+Summary.=[Consent/Sec/Sec_Summary.md]
+
+Purpose.Sec=
+
+Procedure.=[Consent/Sec/Sec_Procedure.md]
+
+Risk.=[Consent/Sec/Sec_Risk.md]
+
+Benefit.=[Consent/Sec/Sec_Benefit.md]
+
+Payment.=[Consent/Sec/Sec_Payment.md]
+
+Cost.=[Consent/Sec/Sec_Cost.md]
+
+Alternatives.=[Consent/Sec/Sec_Alternatives.md]
+
+Authorization.=[Consent/Sec/Sec_Authorization.md]
+
+Confidentiality.=[Consent/Sec/Sec_Confidentiality.md]
+
+CostOfInjury.=[Consent/Sec/Sec_CostOfInjury.md]
+
+Participation.=[Consent/Sec/Sec_Participation.md]
+
+Use.=[Consent/Sec/Sec_Use.md]
+
+Funding.Sec=
+
+QuestionsAndContacts.=[Consent/Sec/Sec_QuestionsAndContacts.md]
+
+90.Sec=Thank you for taking the time to read and consider this information.<hr><hr>{Consent.Doc}
+
+Consent.=[Consent/Sec/Consent_Acknowledgment.md]
+
+=[Bit/Sec]
+
+DocBody={Doc}  
+    [submit] => Save
+    [file] => Consent/Form/Research_Consent_Form.md
+    [action] => source
+)
+
+Consent/Form/Research_Consent_Form.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 1797
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ORIGIN] => http://hazardj.local
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 192.168.1.11
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.11
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 59551
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /commonaccord/index.php
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430686799.435
+    [REQUEST_TIME] => 1430686799
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+::: Array
+(
+    [newcontent] => Ti=STUDY INFORMATION AND CONSENT to RESEARCH
+
+sec={Heading.Sec}<ol><li>{Summary.Sec}<li>{Purpose.Sec}<li>{Procedure.Sec}<li>{Risk.Sec}<li>{Benefit.Sec}<li>{Payment.Sec}<li>{Cost.Sec}<li>{Alternatives.Sec}<li>{Authorization.Sec}<li>{Confidentiality.Sec}<li>{CostOfInjury.Sec}<li>{Participation.Sec}<li>{Use.Sec}<li>{Funding.Sec}<li>{QuestionsAndContacts.Sec}</ol>
+
+Heading.=[Consent/Sec/Sec_Heading.md]
+
+Summary.=[Consent/Sec/Sec_Summary.md]
+
+Purpose.Sec=
+
+Procedure.=[Consent/Sec/Sec_Procedure.md]
+
+Risk.=[Consent/Sec/Sec_Risk.md]
+
+Benefit.=[Consent/Sec/Sec_Benefit.md]
+
+Payment.=[Consent/Sec/Sec_Payment.md]
+
+Cost.=[Consent/Sec/Sec_Cost.md]
+
+Alternatives.=[Consent/Sec/Sec_Alternatives.md]
+
+Authorization.=[Consent/Sec/Sec_Authorization.md]
+
+Confidentiality.=[Consent/Sec/Sec_Confidentiality.md]
+
+CostOfInjury.=[Consent/Sec/Sec_CostOfInjury.md]
+
+Participation.=[Consent/Sec/Sec_Participation.md]
+
+Use.=[Consent/Sec/Sec_Use.md]
+
+Funding.Sec=
+
+QuestionsAndContacts.=[Consent/Sec/Sec_QuestionsAndContacts.md]
+
+90.Sec=Thank you for taking the time to read and consider this information.<hr><hr>{Consent.Doc}
+
+Consent.=[Consent/Sec/Consent_Acknowledgment.md]
+
+=[Bit/Sec]
+
+DocBody={Doc}  
+    [submit] => Save
+    [file] => Consent/Form/Research_Consent_Form.md
+    [action] => source
+)
+
+Consent/Form/Research_Consent_Form.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 1793
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ORIGIN] => http://hazardj.local
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 192.168.1.11
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.11
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 59552
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /commonaccord/index.php
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430686836.365
+    [REQUEST_TIME] => 1430686836
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+::: Array
+(
+    [newcontent] => Ti=STUDY INFORMATION AND CONSENT to RESEARCH
+
+sec={Intro.Sec}<ol><li>{Summary.Sec}<li>{Purpose.Sec}<li>{Procedure.Sec}<li>{Risk.Sec}<li>{Benefit.Sec}<li>{Payment.Sec}<li>{Cost.Sec}<li>{Alternatives.Sec}<li>{Authorization.Sec}<li>{Confidentiality.Sec}<li>{CostOfInjury.Sec}<li>{Participation.Sec}<li>{Use.Sec}<li>{Funding.Sec}<li>{QuestionsAndContacts.Sec}</ol>
+
+Intro.=[Consent/Sec/Sec_Heading.md]
+
+Summary.=[Consent/Sec/Sec_Summary.md]
+
+Purpose.Sec=
+
+Procedure.=[Consent/Sec/Sec_Procedure.md]
+
+Risk.=[Consent/Sec/Sec_Risk.md]
+
+Benefit.=[Consent/Sec/Sec_Benefit.md]
+
+Payment.=[Consent/Sec/Sec_Payment.md]
+
+Cost.=[Consent/Sec/Sec_Cost.md]
+
+Alternatives.=[Consent/Sec/Sec_Alternatives.md]
+
+Authorization.=[Consent/Sec/Sec_Authorization.md]
+
+Confidentiality.=[Consent/Sec/Sec_Confidentiality.md]
+
+CostOfInjury.=[Consent/Sec/Sec_CostOfInjury.md]
+
+Participation.=[Consent/Sec/Sec_Participation.md]
+
+Use.=[Consent/Sec/Sec_Use.md]
+
+Funding.Sec=
+
+QuestionsAndContacts.=[Consent/Sec/Sec_QuestionsAndContacts.md]
+
+90.Sec=Thank you for taking the time to read and consider this information.<hr><hr>{Consent.Doc}
+
+Consent.=[Consent/Sec/Consent_Acknowledgment.md]
+
+=[Bit/Sec]
+
+DocBody={Doc}  
+    [submit] => Save
+    [file] => Consent/Form/Research_Consent_Form.md
+    [action] => source
+)
+
+Consent/Form/Research_Consent_Form.md
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 1798
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ORIGIN] => http://hazardj.local
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8zc mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 192.168.1.11
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.11
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 59568
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /commonaccord/index.php
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1430686949.616
+    [REQUEST_TIME] => 1430686949
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+::: Array
+(
+    [newcontent] => Ti=STUDY INFORMATION AND CONSENT to RESEARCH
+
+sec={Intro.Sec}<ol><li>{Summary.Sec}<li>{Purpose.Sec}<li>{Procedure.Sec}<li>{Risk.Sec}<li>{Benefit.Sec}<li>{Payment.Sec}<li>{Cost.Sec}<li>{Alternatives.Sec}<li>{Authorization.Sec}<li>{Confidentiality.Sec}<li>{CostOfInjury.Sec}<li>{Participation.Sec}<li>{Use.Sec}<li>{Funding.Sec}<li>{QuestionsAndContacts.Sec}</ol>
+
+Intro.=[Consent/Sec/Sec_Introduction.md]
+
+Summary.=[Consent/Sec/Sec_Summary.md]
+
+Purpose.Sec=
+
+Procedure.=[Consent/Sec/Sec_Procedure.md]
+
+Risk.=[Consent/Sec/Sec_Risk.md]
+
+Benefit.=[Consent/Sec/Sec_Benefit.md]
+
+Payment.=[Consent/Sec/Sec_Payment.md]
+
+Cost.=[Consent/Sec/Sec_Cost.md]
+
+Alternatives.=[Consent/Sec/Sec_Alternatives.md]
+
+Authorization.=[Consent/Sec/Sec_Authorization.md]
+
+Confidentiality.=[Consent/Sec/Sec_Confidentiality.md]
+
+CostOfInjury.=[Consent/Sec/Sec_CostOfInjury.md]
+
+Participation.=[Consent/Sec/Sec_Participation.md]
+
+Use.=[Consent/Sec/Sec_Use.md]
+
+Funding.Sec=
+
+QuestionsAndContacts.=[Consent/Sec/Sec_QuestionsAndContacts.md]
+
+90.Sec=Thank you for taking the time to read and consider this information.<hr><hr>{Consent.Doc}
+
+Consent.=[Consent/Sec/Consent_Acknowledgment.md]
+
+=[Bit/Sec]
+
+DocBody={Doc}  
+    [submit] => Save
+    [file] => Consent/Form/Research_Consent_Form.md
+    [action] => source
+)
+
+Consent/Form/Research_Consent_Form.md
+
