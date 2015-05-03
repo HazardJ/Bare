@@ -1,6 +1,6 @@
 Ti=STUDY INFORMATION AND CONSENT to RESEARCH
 
-sec={Intro.Sec}<ol><li>{Summary.Sec}<li>{Purpose.Sec}<li>{Procedure.Sec}<li>{Risk.Sec}<li>{Benefit.Sec}<li>{Payment.Sec}<li>{Cost.Sec}<li>{Alternatives.Sec}<li>{Authorization.Sec}<li>{Confidentiality.Sec}<li>{CostOfInjury.Sec}<li>{Participation.Sec}<li>{Use.Sec}<li>{Funding.Sec}<li>{QuestionsAndContacts.Sec}</ol>
+sec={Intro.Sec}<ol><li>{Summary.Sec}<li>{Purpose.Sec}<li>{Procedure.Sec}<li>{Risk.Sec}<li>{Benefit.Sec}<li>{Payment.Sec}<li>{Cost.Sec}<li>{Alternatives.Sec}<li>{Authorization.Sec}<li>{Confidentiality.Sec}<li>{CostOfInjury.Sec}<li>{Participation.Sec}<li>{Use.Sec}<li>{Funding.Sec}<li>{QuestionsAndContacts.Sec}</ol>{End.Sec}<hr><hr>{Consent.Doc}
 
 Intro.=[Consent/Sec/Sec_Introduction.md]
 
@@ -34,7 +34,7 @@ Funding.Sec=
 
 QuestionsAndContacts.=[Consent/Sec/Sec_QuestionsAndContacts.md]
 
-90.Sec=Thank you for taking the time to read and consider this information.<hr><hr>{Consent.Doc}
+End.Sec=Thank you for taking the time to read and consider this information.
 
 Consent.=[Consent/Sec/Consent_Acknowledgment.md]
 
